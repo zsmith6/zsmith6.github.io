@@ -1761,7 +1761,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
-			max-height: 500px; 
+			max-height: 200px; 
 			height:auto;
 		}
 
